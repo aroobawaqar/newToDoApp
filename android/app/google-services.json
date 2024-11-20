@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829170441684",
+    "project_id": "addapp-78ee1",
+    "storage_bucket": "addapp-78ee1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829170441684:android:b0ed3739e3a4faa0980a41",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzGgLJsPKgGyJzTET0hi8McngY09ubl4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829170441684:android:f0e427ce938ed208980a41",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzGgLJsPKgGyJzTET0hi8McngY09ubl4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
